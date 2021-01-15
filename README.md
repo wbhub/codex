@@ -1,5 +1,5 @@
 
-## 👉 Get Started -- Quick Test Change
+## 👉 Get Started
 Install dependencies
 ```
 npm install
